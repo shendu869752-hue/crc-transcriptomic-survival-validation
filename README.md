@@ -1,5 +1,7 @@
 # Strict validation of a colorectal cancer transcriptomic survival score
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22827551.svg)](https://doi.org/10.5281/zenodo.22827551)
+
 This repository contains the analysis code, validation tests, compact result tables, figure files, and environment records for the manuscript:
 
 > Strict Validation of a Public-Data Colorectal Cancer Transcriptomic Survival Score Reveals Optimism, Feature Instability, and Probe-Mapping Sensitivity
@@ -13,8 +15,10 @@ The work is a methodological validation study. It does **not** provide a clinica
 - Certified formal run key: `b2e747538453cf33b4321109514bdc2f06e38e688e14d1ee434c1677b4f6657c`
 - Strict highest-mean sensitivity key: `b0e967f58f2d4188de47bdf555bcafbb4ac76f1b92b69383cc77a5a49ddb3144`
 - Development repository: <https://github.com/shendu869752-hue/crc-transcriptomic-survival-validation>
+- Version DOI: <https://doi.org/10.5281/zenodo.22827551>
+- Concept DOI: <https://doi.org/10.5281/zenodo.22827550>
 
-The version-specific Zenodo DOI will be added to the repository landing page after Zenodo archives the GitHub release.
+For reproducible citation of the archived `v1.0.0` files, use the version DOI. The concept DOI resolves to the latest archived version and is provided for following the software record across future releases.
 
 ## Public datasets
 
@@ -129,4 +133,3 @@ The analysis code is released under the MIT License. Public source data remain s
 Xiang Zhang  
 Clinical Center Laboratory, Suzhou Hospital of Anhui Medical University (Suzhou Municipal Hospital of Anhui Province)  
 ORCID: <https://orcid.org/0009-0008-7387-8224>
-
