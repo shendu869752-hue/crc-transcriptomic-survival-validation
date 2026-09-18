@@ -1,0 +1,3 @@
+cohort,n,events,genes,median_observed_time_days,reverse_km_median_followup_days,reverse_km_followup_lower95_days,reverse_km_followup_upper95_days
+GSE39582,573,190,20823,1613.1875,2252.375,2100.1875,2343.6875
+TCGA-COAD,279,69,20530,670,796,718,974

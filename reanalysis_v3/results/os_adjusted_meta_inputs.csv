@@ -1,0 +1,4 @@
+cohort,endpoint,n,events,adjustment,HR,lower95,upper95,p,yi,sei,effect_scale,sei_method
+TCGA-COAD,OS,270,65,age_per_10y + stage_strata(early/advanced),1.09756508242705,0.850777881144946,1.41593844511087,0.473755771145297,0.0930941648258773,0.129950529980595,log hazard ratio per 1-SD risk score,derived from cohort-level 95% Wald CI
+GSE17536,OS,177,73,age_per_10y + stage_strata(early/advanced),1.22293730440002,0.974295723755148,1.53503255123497,0.0826666774530108,0.201255591613422,0.115969475464877,log hazard ratio per 1-SD risk score,derived from cohort-level 95% Wald CI
+GSE17537,OS,55,20,age_per_10y + stage_strata(early/advanced),1.39770650883481,0.90680703637002,2.15435413101716,0.129314901403958,0.334832685316086,0.220748079835442,log hazard ratio per 1-SD risk score,derived from cohort-level 95% Wald CI

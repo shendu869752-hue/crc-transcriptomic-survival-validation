@@ -1,0 +1,17 @@
+category,name,value
+analysis,analysis_key,4e8f7e1e9353e2e23dba3848b3e828f701524e67d43805f47e8cff7cc13c785a
+analysis,pipeline_version,crc9-strict-nested-v3.5-unique-mean-primary-highest-mean-training-partition-learned-full-development-frozen-external
+input_sha256,GSE39582_expression_unique_mean.csv.gz,1006ab315b261363942d4b3a067793583a774e03095a211d98801d8f5650d818
+input_sha256,GSE39582_clin.csv,fc1e232132f675afd7d33a9ecc0dcea28ad60d146fda87a160b2f0efd19371b1
+input_sha256,GSE39582_probe_annotation.csv,de2696752e257a3efcc1fa9ab311a2f197bd762ac6136251b32ffb31b9fcdf3e
+code_sha256,01_core_reanalysis_v3.R,245b4093e2e547b737d6e2953b9e7b13e494573c4cacd934ff82f80e2dcfff7f
+code_sha256,utils.R,c1f414e872a35847cf04af9bf06c27a3bdc127a391a1a3184249893dd2f44dca
+code_sha256,highest_mean_sensitivity.R,b7c6324765dc62bcde253cfcd8d34e6c3e85fb3b71a82860a3a8c6edf1240860
+code_sha256,00_acquire_prepare_inputs.R,7033d2755f40eaf5d48d5428403abb168713d393af9b976868c78b554b8bbf09
+code_sha256,run_v3_local.ps1,86399bc5cb0092a77e2e3217c1065e5eeea0d8bc7c070bba69ebe65d3da96bc3
+package_version,survival,3.8.11
+package_version,glmnet,5.0
+package_version,data.table,1.18.6.1
+package_version,digest,0.6.39
+runtime,R.version.string,R version 4.6.1 (2026-06-24 ucrt)
+parameters,dput,"list(pipeline_version = ""crc9-strict-nested-v3.5-unique-mean-primary-highest-mean-training-partition-learned-full-development-frozen-external"",      outer_folds = 5L, outer_repeats = 10L, inner_folds = 5L,      base_seed = 20240916L, sd_cutoff = 0.2, univ_p_cutoff = 1e-04,      min_candidates = 5L, candidate_fallback_n = 50L, coef_cutoff = 0.05,      min_selected = 5L, selected_fallback_n = 8L, max_selected = 30L,      lambda_ratio_grid = c(0.562341325190349, 0.431933279405154,      0.331767112784286, 0.254829674797935, 0.195734178148766,      0.150343041978733, 0.115478198468946, 0.0886985799018192,      0.0681292069057962, 0.0523299114681495, 0.0401945033361513,      0.0308733199257026, 0.0237137370566166, 0.0182144753639595,      0.0139905031413729, 0.0107460782832132, 0.00825404185268019,      0.00633991351172485, 0.00486967525165863, 0.00374038810036779,      0.00287298483335367, 0.00220673406908459, 0.00169498815139035,      0.00130191710619008, 0.001), lambda_rule = ""one_se_larger_penalty"",      ties = ""efron"", development_probe_aggregation = ""unique_mean"")"

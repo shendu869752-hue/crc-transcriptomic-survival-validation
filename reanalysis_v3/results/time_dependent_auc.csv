@@ -1,0 +1,16 @@
+cohort,endpoint,mapping_method,year,AUC,lower95,upper95,eligible,auc_estimable,ci_estimable,reason,failure_class,error_message,events_before,at_risk,min_events_required,min_at_risk_required,weighting
+TCGA-COAD,OS,gene_level_input,1,0.660064144868515,0.5667,0.7535,TRUE,TRUE,TRUE,ok,"","",26,224,10,20,marginal
+TCGA-COAD,OS,gene_level_input,3,0.640380745682767,0.5348,0.7459,TRUE,TRUE,TRUE,ok,"","",48,78,10,20,marginal
+TCGA-COAD,OS,gene_level_input,5,0.534496896110637,0.409,0.66,TRUE,TRUE,TRUE,ok,"","",59,42,10,20,marginal
+GSE14333,DFS,unique_mean,1,0.660339912635291,0.5173,0.8034,TRUE,TRUE,TRUE,ok,"","",15,201,10,20,marginal
+GSE14333,DFS,unique_mean,3,0.6554296647936,0.5598,0.751,TRUE,TRUE,TRUE,ok,"","",41,125,10,20,marginal
+GSE14333,DFS,unique_mean,5,0.659463618458809,0.5524,0.7665,TRUE,TRUE,TRUE,ok,"","",46,53,10,20,marginal
+GSE17536,OS,unique_mean,1,0.580270797348459,0.4664,0.6942,TRUE,TRUE,TRUE,ok,"","",21,153,10,20,marginal
+GSE17536,OS,unique_mean,3,0.591322041143489,0.4959,0.6867,TRUE,TRUE,TRUE,ok,"","",51,103,10,20,marginal
+GSE17536,OS,unique_mean,5,0.55319740278373,0.4472,0.6592,TRUE,TRUE,TRUE,ok,"","",67,52,10,20,marginal
+GSE17537,OS,unique_mean,1,,,,FALSE,FALSE,FALSE,insufficient_events_or_at_risk,eligibility,"",7,48,10,20,marginal
+GSE17537,OS,unique_mean,3,0.654605263157895,0.499,0.8102,TRUE,TRUE,TRUE,ok,"","",17,39,10,20,marginal
+GSE17537,OS,unique_mean,5,,,,FALSE,FALSE,FALSE,insufficient_events_or_at_risk,eligibility,"",20,15,10,20,marginal
+GSE39582 (training),OS,unique_mean,1,0.688074207854711,0.6008,0.7753,TRUE,TRUE,TRUE,ok,"","",33,527,10,20,marginal
+GSE39582 (training),OS,unique_mean,3,0.725677727156884,0.6714,0.7799,TRUE,TRUE,TRUE,ok,"","",113,385,10,20,marginal
+GSE39582 (training),OS,unique_mean,5,0.723881950794911,0.673,0.7748,TRUE,TRUE,TRUE,ok,"","",157,249,10,20,marginal

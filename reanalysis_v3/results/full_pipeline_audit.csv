@@ -1,0 +1,2 @@
+seed,input_genes,input_samples,input_events,variance_retained,univ_candidates,candidate_fallback,candidates_entering_lasso,selected_lambda_ratio,selected_lambda,lasso_nonzero,selected_fallback,final_genes,inner_folds
+20240916,19006,573,190,16488,44,FALSE,44,0.562341325190349,0.0712356768191252,14,TRUE,8,5

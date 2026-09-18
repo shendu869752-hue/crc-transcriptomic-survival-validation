@@ -1,0 +1,2 @@
+n,events,c_index,lower95,upper95,interval_method,evaluation_type,harrell_timewt,seed,bootstrap_replicates_requested,bootstrap_replicates_valid,bootstrap_valid_fraction,minimum_valid_fraction,method
+573,190,0.612554320259915,0.568161189335045,0.658754887219556,patient-level percentile bootstrap conditional on precomputed scores,repeated_nested_cv_oof_ensemble_fixed_predictions,n,20240930,2000,2000,1,0.95,Patient bootstrap conditional on mean of 10 precomputed OOF predictions

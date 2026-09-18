@@ -1,0 +1,6 @@
+cohort,endpoint,mapping_method,source_n,source_events,missing_age_n,missing_stage_n,complete_case_n,complete_case_events,excluded_from_adjustment_n,excluded_events,complete_case_fraction,stage_groups_present,minimum_n_required,minimum_events_required,eligible,reason,adjustment
+GSE39582 (training),OS,unique_mean,573,190,1,0,572,190,1,0,0.99825479930192,2,50,20,TRUE,eligible,age_per_10y + stage_strata(early/advanced)
+TCGA-COAD,OS,gene_level_input,279,69,0,9,270,65,9,4,0.967741935483871,2,50,20,TRUE,eligible,age_per_10y + stage_strata(early/advanced)
+GSE14333,DFS,unique_mean,226,50,0,0,226,50,0,0,1,2,50,20,TRUE,eligible,age_per_10y + stage_strata(early/advanced)
+GSE17536,OS,unique_mean,177,73,0,0,177,73,0,0,1,2,50,20,TRUE,eligible,age_per_10y + stage_strata(early/advanced)
+GSE17537,OS,unique_mean,55,20,0,0,55,20,0,0,1,2,50,20,TRUE,eligible,age_per_10y + stage_strata(early/advanced)

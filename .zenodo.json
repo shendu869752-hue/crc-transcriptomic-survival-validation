@@ -1,0 +1,47 @@
+{
+  "title": "Reproducible analysis code for strict validation of a colorectal cancer transcriptomic survival score",
+  "description": "Analysis code, validation tests, compact certified result tables, figure files, and environment records for a public-data study of optimism, feature-selection stability, cross-cohort transportability, and probe-mapping sensitivity in a colorectal cancer transcriptomic survival score. This release does not provide a clinically deployable prediction model.",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "version": "1.0.0",
+  "creators": [
+    {
+      "name": "Zhang, Xiang",
+      "orcid": "0009-0008-7387-8224",
+      "affiliation": "Suzhou Hospital of Anhui Medical University (Suzhou Municipal Hospital of Anhui Province)"
+    },
+    {
+      "name": "Wang, Zhen",
+      "affiliation": "Suzhou Hospital of Anhui Medical University (Suzhou Municipal Hospital of Anhui Province)"
+    },
+    {
+      "name": "Chen, Yuyan",
+      "affiliation": "Suzhou Hospital of Anhui Medical University (Suzhou Municipal Hospital of Anhui Province)"
+    },
+    {
+      "name": "Zhang, Lei",
+      "affiliation": "Suzhou Hospital of Anhui Medical University (Suzhou Municipal Hospital of Anhui Province)"
+    },
+    {
+      "name": "Liu, Yuling",
+      "affiliation": "Suzhou Hospital of Anhui Medical University (Suzhou Municipal Hospital of Anhui Province)"
+    }
+  ],
+  "keywords": [
+    "colorectal cancer",
+    "transcriptomics",
+    "survival analysis",
+    "nested cross-validation",
+    "feature stability",
+    "probe mapping"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/shendu869752-hue/crc-transcriptomic-survival-validation",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
+

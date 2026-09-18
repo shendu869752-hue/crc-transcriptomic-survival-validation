@@ -1,0 +1,2 @@
+pipeline_version,analysis_key,repeats,outer_folds,inner_folds,completed_folds,median_repeat_oof_c_index,repeat_oof_c_index_q1,repeat_oof_c_index_q3,min_repeat_oof_c_index,max_repeat_oof_c_index,median_within_repeat_jaccard,jaccard_q1,jaccard_q3
+crc9-strict-nested-v3.5-unique-mean-primary-highest-mean-training-partition-learned-full-development-frozen-external,4e8f7e1e9353e2e23dba3848b3e828f701524e67d43805f47e8cff7cc13c785a,10,5,5,50,0.595110148463953,0.585664934815688,0.605360741360166,0.578186902819856,0.628086144735219,0.222222222222222,0.166666666666667,0.3

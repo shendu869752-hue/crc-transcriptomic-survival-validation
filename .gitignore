@@ -1,0 +1,13 @@
+reanalysis_v3/raw_inputs/
+reanalysis_v3/prepared_inputs/
+reanalysis_v3/cache/
+reanalysis_v3/runs/
+data/external_GEO/*.gz
+*.RData
+*.Rhistory
+*.rds
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
