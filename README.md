@@ -1,19 +1,19 @@
-# Strict validation of a colorectal cancer transcriptomic survival score
+# Rigorous reassessment of a colorectal cancer transcriptomic survival algorithm
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22827551.svg)](https://doi.org/10.5281/zenodo.22827551)
 
 This repository contains the analysis code, validation tests, compact result tables, figure files, and environment records for the manuscript:
 
-> Strict Validation of a Public-Data Colorectal Cancer Transcriptomic Survival Score Reveals Optimism, Feature Instability, and Probe-Mapping Sensitivity
+> Rigorous Reassessment of a Public-Data Colorectal Cancer Transcriptomic Survival Algorithm Reveals Optimism, Feature Instability, and Probe-Mapping Sensitivity
 
-The work is a methodological validation study. It does **not** provide a clinically deployable model, a fixed patient-level cutoff, or an absolute-risk calculator.
+The work is a methodological reassessment study. It does **not** provide a clinically deployable model, a fixed patient-level cutoff, or an absolute-risk calculator.
 
 ## Release
 
 - Version: `v1.0.0`
 - Release date: 2026-09-18
 - Certified formal run key: `b2e747538453cf33b4321109514bdc2f06e38e688e14d1ee434c1677b4f6657c`
-- Strict highest-mean sensitivity key: `b0e967f58f2d4188de47bdf555bcafbb4ac76f1b92b69383cc77a5a49ddb3144`
+- Highest-mean probe-mapping sensitivity key: `b0e967f58f2d4188de47bdf555bcafbb4ac76f1b92b69383cc77a5a49ddb3144`
 - Development repository: <https://github.com/shendu869752-hue/crc-transcriptomic-survival-validation>
 - Version DOI: <https://doi.org/10.5281/zenodo.22827551>
 - Concept DOI: <https://doi.org/10.5281/zenodo.22827550>

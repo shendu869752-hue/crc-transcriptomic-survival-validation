@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite the version-specific Zenodo record."
-title: "Reproducible analysis code for strict validation of a colorectal cancer transcriptomic survival score"
+title: "Reproducible analysis code for rigorous reassessment of a public-data colorectal cancer transcriptomic survival algorithm"
 type: software
 version: 1.0.0
 date-released: 2026-09-18
@@ -13,11 +13,11 @@ authors:
   - family-names: Wang
     given-names: Zhen
     affiliation: "Suzhou Hospital of Anhui Medical University (Suzhou Municipal Hospital of Anhui Province)"
-  - family-names: Chen
-    given-names: Yuyan
-    affiliation: "Suzhou Hospital of Anhui Medical University (Suzhou Municipal Hospital of Anhui Province)"
   - family-names: Zhang
     given-names: Lei
+    affiliation: "Suzhou Hospital of Anhui Medical University (Suzhou Municipal Hospital of Anhui Province)"
+  - family-names: Chen
+    given-names: Yuyan
     affiliation: "Suzhou Hospital of Anhui Medical University (Suzhou Municipal Hospital of Anhui Province)"
   - family-names: Liu
     given-names: Yuling
